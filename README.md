@@ -10,7 +10,6 @@ This repository contains datasets, tutorials, and scripts for training deep lear
 
 - **Example_Data_RCNN:** Examples of data used for the Mask R-CNN model.
 - **Exemple_Convert_Data_For_YOLO:** Examples of data converted for the YOLOv8 model.
-- **Trained Models and Corresponding Files:** Includes models trained for both ArcGIS with Mask R-CNN and YOLOv8.
 
 ### Tutorial: Dataset Export in ArcGIS
 
