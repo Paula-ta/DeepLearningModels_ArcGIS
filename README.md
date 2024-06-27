@@ -10,7 +10,7 @@ This repository contains datasets, tutorials, and scripts for training deep lear
 
 - **Example_Data_RCNN:** Examples of data used for the Mask R-CNN model.
 - **Exemple_Convert_Data_For_YOLO:** Examples of data converted for the YOLOv8 model.
-- **TrainingEpochs: Excel files documenting the epoch data of trained machine learning models. Each file provides a comprehensive overview of the training process, including performance metrics such as accuracy, loss, and validation scores for each epoch.
+- **TrainingEpochs:** Excel files documenting the epoch data of trained machine learning models. Each file provides a comprehensive overview of the training process, including performance metrics such as accuracy, loss, and validation scores for each epoch.
 
 ### Tutorial: Dataset Export in ArcGIS
 
